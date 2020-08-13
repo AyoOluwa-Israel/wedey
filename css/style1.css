@@ -161,14 +161,21 @@ input[type="date"] {
 }
 input{
     width: 187px;
+    border: none;
+    border-bottom: 2px solid #fff;
+    background: none;
 }
 #ycar{
     width: 187px;
+    border: none;
+    border-bottom: 2px solid #fff;
+    background: none;
 }
 input[type="checkbox"]{
     width: 15px;
     height: 15px;
-    margin: 2px;
+    margin-left: 0px;
+    margin-top: 10px;
 }
 /* form styling ends here */
 
