@@ -79,15 +79,19 @@ image-1 {
 #menu-area ul li:last-child a {
     padding: 0px 5px;
 }
+#menu-area.cus-nav ul li:last-child a{
+    padding: 0px 5px;
+}
 #menu-area ul li {
     margin-right: 10px;
+    font-size: 10px;
 }
 .gendiv {
     margin-top: 85em;
 }
 .formdiv {
     width: 326px;
-    height: 540px;
+    height: 490px;
 }
 .ourpartners {
     margin-top: 85em;
